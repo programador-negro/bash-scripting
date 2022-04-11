@@ -4,7 +4,7 @@
 
 # autor: programador negro
 
-ubicacion_actual=`pwd`
+ubicacion_actual=``
 info_kernel=$(uname -a)
 
 echo "la ubicacion actual es: $ubicacion_actual" | lolcat

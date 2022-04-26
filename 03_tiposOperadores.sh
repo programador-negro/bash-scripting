@@ -1,9 +1,8 @@
 #!/bin/bash
 
-# programa para revisar el tipo de operadores
-
+# tipos de operadores
 # autor: programador negro
-# correo: programador.negro@gmail.com
+
 
 a=10
 b=4

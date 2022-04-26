@@ -1,5 +1,5 @@
 #!/bin/bash
-# programa para aprender el paso de argumentos
+# paso de argumentos por termial
 
 nombre_curso=$1
 horario_curso=$2

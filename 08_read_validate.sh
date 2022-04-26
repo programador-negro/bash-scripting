@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#!/bin/bash
-# programa para ejemplificar como validar la informacion ingresada por el usuario
+# como validar la informacion ingresada por el usuario
+# autor: programador negro
 
 option=0
 backup_name=""

@@ -1,4 +1,6 @@
 #!/bin/bash
+# condicionales IF anidados
+# autor: programador negro
 
 nota=0
 continua="s"
@@ -8,7 +10,7 @@ read -p "Ingrese la nota del estudiante: " nota
 if [ $nota -ge 3 ]; then
 	echo "El alumno aprueba la materia" | lolcat
 	read -p "¿Desea continuar el proximo semestre? (s/n)" continuar
-    
+
 	if [ $continar -eq "s" ]; then
 		echo "Bienvenido al nuevo semestre de ingenieria de software"  | lolcat
 	else

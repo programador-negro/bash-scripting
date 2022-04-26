@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Programa para revisar la decalracion de variables
+# declaracion de variables
 
 opcion=0
 nombre="Daniel Ibarra"

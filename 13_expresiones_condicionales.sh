@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # uso de expresiones condicionales
+# autor: programador negro
 
 edad=0
 pais=""

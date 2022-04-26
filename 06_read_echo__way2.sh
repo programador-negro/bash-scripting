@@ -1,6 +1,6 @@
 #!/bin/bash
 # metodo 2 de como leer datos de usuario por ingresados por la terminal
-
+# autor: programador negro
 version=0
 distribucion=""
 

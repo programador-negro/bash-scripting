@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# programa para descargar archivos de internet
+# descargar archivos de internet
+# autor: programador negro
 
 echo "Descargar informacion de internet"
 

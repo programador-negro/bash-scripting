@@ -1,5 +1,6 @@
 #!/bin/bash
-# programa para el paso de parametros y opciones
+# paso de parametros y opciones
+# autor: programador negro
 
 echo "PROGRAMA DE OPCIONES" | lolcat
 echo "opcion 1 enviada: $1"

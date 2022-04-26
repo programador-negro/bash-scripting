@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# programa para aprender los condicionales de IF y ELSE
+# condicionales IF ELSE
+# autor: programador negro
 
 edad=0
 

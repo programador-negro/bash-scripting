@@ -1,5 +1,6 @@
 #!/bin/bash
-# programan for learn to read user input in bash scripting
+# learn to read user input in bash scripting
+# autor: programador negro
 
 distribution_name=""
 distribution_version=0

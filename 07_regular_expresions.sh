@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# autor: programador negro
+
 # se realizará un programa que valida la siguiente información:
 #Número de Identificación de un tamaño de 10 números. Ejemplo: 1717836520
 #País de Origen denotado por dos letras en un rango específico. Ejemplo: EC, CO, US

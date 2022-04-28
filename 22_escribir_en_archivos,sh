@@ -12,6 +12,6 @@ echo "Valores escritos con el comando echo" >> $1
 
 #adicion multilinea
 
-cat <<EOM >>$1
+cat << EOM >> $1
 $2
 EOM

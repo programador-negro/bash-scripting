@@ -16,3 +16,5 @@ elif [ $1 = "f" ]; then
 else
 	echo "no existe esa opcion"
 fi
+
+# ejecutar: 21_archivos_y_directorios.sh <nombrearchivo> <texto a insertar>
